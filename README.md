@@ -10,3 +10,6 @@ thread程式，將一個檔案內N個數字，切成k份(k由使用者自訂)，
 3. 將N個數目字切成k份，並由K個Processes分別進行Bubble Sort之後,再由k-1個Processes作Merge Sort，同時顯示CPU執行之時間.
 4. 將N個數目字切成k份，在一個Process內對K份資料進行Bubble Sort之後，再用同一個Process作Merge Sort，同時顯示CPU執行之時間.
 
+# 輸入格式
+第一行為所使用的方法(1~4)代表四個小題
+第二行之後為一長串數字組合，格式如附檔(input.txt)所示。
